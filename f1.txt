@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwsdcvb
+=======
+poiuyt
+>>>>>>> aj1/main
